@@ -25,7 +25,7 @@ Examine code using the spread operator
 
 
 ### 1. lab-03.js
-[lab-03.js]()
+[lab-03.js](lab-03.js)
 
 ### 2. lab-03-module.js
 ![lab-03-module.js](lab-03-module.js)
