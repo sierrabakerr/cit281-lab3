@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 
 [RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
