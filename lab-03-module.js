@@ -1,3 +1,8 @@
+/*
+    CIT 281 Lab 3
+    Name: Sierra Baker
+*/
+
 // TODO Part 9: Add the reverseString function to the module.exports object
 // for import using require()
 module.exports = {
