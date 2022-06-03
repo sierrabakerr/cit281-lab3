@@ -1,5 +1,5 @@
 /*
-    CIT 281 Lab 1
+    CIT 281 Lab 3
     Name: Sierra Baker
 */
 // TODO Part 11: Import reverseString() and concatenateString()
