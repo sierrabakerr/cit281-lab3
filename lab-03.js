@@ -2,7 +2,6 @@
     CIT 281 Lab 1
     Name: Sierra Baker
 */
-
 // TODO Part 11: Import reverseString() and concatenateString()
 // functions from lab-03-module.js module using require()
 const {reverseString, concatenateString} = require(); "./lab-03-module.js"
