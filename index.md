@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Lab 2
 
-You can use the [editor on GitHub](https://github.com/sierrabakerr/cit281-lab3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[RETURN TO HOMEPAGE](https://sierrabakerr.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lab goals and outcomes:
 
-### Markdown
+Practice refactoring JavaScript code to use more modern syntax
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Practice destructuring an object
 
-```markdown
-Syntax highlighted code block
+Practice converting normal functions into arrow function expressions
 
-# Header 1
-## Header 2
-### Header 3
+Examine using for..in  syntax with objects
 
-- Bulleted
-- List
+Practice using for..of syntax with arrays
 
-1. Numbered
-2. List
+Practice creating a Node.js compatible code module using module.exports
 
-**Bold** and _Italic_ and `Code` text
+Practice importing a Node.js compatible code module using require
 
-[Link](url) and ![Image](src)
-```
+Examine code using the spread operator
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Lab Deliverables:
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sierrabakerr/cit281-lab3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 1. lab-03.js
+[lab-03.js]()
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 2. lab-03-module.js
+![lab-03-module.js]()
+
